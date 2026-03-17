@@ -26,6 +26,7 @@ langchainhub
 huggingface_hub
 langchain-classic
 mysql-connector-python
+ddgs>=1.0.0
 SQLAlchemy
 validators
 youtube_transcript_api
